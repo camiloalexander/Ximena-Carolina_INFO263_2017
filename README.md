@@ -14,9 +14,13 @@ Integrantes:
  
  
 Universidad Austral de Chile.
+  
 Campus Miraflores.
+  
 Facultad de Ciencias de la Ingeniería.
+ 
 Escuela de Informática.
+ 
  
 Valdivia, Junio 2017
 
