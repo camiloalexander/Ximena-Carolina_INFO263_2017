@@ -1,8 +1,8 @@
 # Ximena&Carolina_INFO263_2017
 
-Trabajo Semestral INFO263 - Fundamentos de Ingeniería de Software.
+Trabajo Semestral INFO263 - Fundamentos de Ingeniería de Software. (Primer semestre 2017)
 
-Continuación - INFO264	TALLER INGENIERIA DE SOFTWARE.
+Continuación - INFO264	TALLER INGENIERIA DE SOFTWARE. (Segundo semestre 2017)
 
 Profesores:
 - Raimundo Vega Vega.
